@@ -1,7 +1,6 @@
 # Attendance
 
 ## Student Management System
-
 Welcome to the Student Management System project! This software is designed to manage student-related data within a school environment. The front-end development incorporates HTML, CSS, JavaScript, and the React framework. Additionally, the JavaScript library React-Bootstrap was utilized to enhance the user interface. On the back-end, the software is powered by Django, a Python-based framework. The database implementation relies on the lightweight SQLite3, integrated within the Django framework.
 
 ### Features and Permissions
